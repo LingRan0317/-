@@ -13,7 +13,7 @@ last_name="Yue"
 full_name=first_name+" "+last_name
 print(full_name)
 
-message="Hellow,"+full_name.title()+"!"
+message="Hi,"+full_name.title()+"!"
 print(message)
 
 #4制表符与换行符
